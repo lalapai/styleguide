@@ -1,0 +1,113 @@
+header h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 25px;
+}
+.colors,.fonts,.text-styles {
+    border: 2px grey solid;
+    padding: 50px;
+    margin-top:30px;
+}
+
+.names li {
+    display:inline-block;
+    padding: 60px;
+    border: 2px black solid;
+    text-align: center;
+    
+}
+.blue 
+{
+    background-color: blue;
+    width: 200px;
+    height: 10px;
+}
+.pink {
+    background-color: pink;
+    width: 200px;
+    height: 10px;
+}
+.green {
+    background-color: green;
+    width: 200px;
+    height: 10px;
+}
+.grey {
+    background-color: grey;
+    width: 200px;
+    height: 10px;
+}
+.main {
+    font-size: 40px;
+}
+.main li {
+    font-size: 14px;
+}
+.sub-heading {
+    font-size: 14px;
+}
+.sub-heading li {
+    font-size: 17px;
+}
+.paragraph {
+    font-size: 17px;
+}
+.text-styles h1 {
+    font-size: 30px;
+}
+.font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+  }
+  
+  .poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Fascinate',cursive;
+  }
